@@ -1,0 +1,56 @@
+
+# Java compiled files
+*.class
+build/
+out/
+target/
+
+# SQLite database files
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Database backups
+*.db.bak
+*.backup
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Java build files
+*.class
+build/
+out/
+target/
+
+# SQLite database
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+
+# Generated distributions
+dist/
+release/
+windows-build/
+package-input/
+test-environment/
+github-release/
+
+# IDE and temporary files
+.vscode/
+.idea/
+*.log
+*.tmp
